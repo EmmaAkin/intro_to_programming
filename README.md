@@ -4,7 +4,9 @@
 
 ### WEEK 2
 #### Assignment
-
+```
+en_decrypt.py
+```
 ### Custom Encryption/Decryption System
 
 #### Richard R. Yao Baku
@@ -14,3 +16,13 @@
 
 
 ### Submitted 
+
+
+### WEEK 3
+#### Class Activity
+
+```
+rearrange_arr.py
+```
+#### Eric Ondenyi
+#### Akin-Awokoya Emmanuel
