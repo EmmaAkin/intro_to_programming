@@ -52,6 +52,7 @@ def sort_re(arr):
     return re_arr
 
 def sec_sec_to_last(arr):
+    arr = sorting(arr)[1:-1]
     # return the second and second to the last elment of a sorted array
     sorted_arr = [min_arr(arr), max_arr(arr)]
     return sorted_arr
