@@ -22,7 +22,7 @@ en_decrypt.py
 #### Class Activity
 
 ```
-rearrange_arr.py
+rearrange_arr.py andcondensed_meeting_times.py
 ```
 #### Eric Ondenyi
 #### Akin-Awokoya Emmanuel
@@ -33,6 +33,16 @@ rearrange_arr.py
 
 ```
 mul_arr_elem_pos.rb
+```
+#### Joy
+#### Akin-Awokoya Emmanuel
+
+
+### WEEK 5
+#### Class Activity
+
+```
+eq_cal.py and conde
 ```
 #### Joy
 #### Akin-Awokoya Emmanuel
