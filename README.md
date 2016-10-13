@@ -42,7 +42,7 @@ mul_arr_elem_pos.rb
 #### Class Activity
 
 ```
-eq_cal.py and conde
+eq_cal.py and condensed_meeting_times.py
 ```
-#### Joy
+#### Kelvin
 #### Akin-Awokoya Emmanuel
