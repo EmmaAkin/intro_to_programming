@@ -26,3 +26,13 @@ rearrange_arr.py
 ```
 #### Eric Ondenyi
 #### Akin-Awokoya Emmanuel
+
+
+### WEEK 4
+#### Class Activity
+
+```
+mul_arr_elem_pos.rb
+```
+#### Joy
+#### Akin-Awokoya Emmanuel
