@@ -46,3 +46,14 @@ eq_cal.py and condensed_meeting_times.py
 ```
 #### Kelvin
 #### Akin-Awokoya Emmanuel
+
+
+
+### WEEK 5 Day 2
+#### Class Activity
+
+```
+minmax_sort.py and set_number.py
+```
+#### Anthony
+#### Akin-Awokoya Emmanuel
