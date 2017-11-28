@@ -1,5 +1,3 @@
-
-
 def gcd(a,b):
     if a==b:
         return a

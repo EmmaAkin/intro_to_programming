@@ -11,14 +11,22 @@ def sort_list(a):
 # Find the freetime between people
 def condensed_meeting_time(arr):
     free_time = []
-    sorted_array = sort_list(arr)
+    arr = sort_list(arr)
 #Find the different between the last previous elment in the tuple and the first elment in the present tuple
     if arr[0][0]!=0:
         free_time.append((0,arr[0][0]))
 
     for i in range(0,len(arr)-1,1):
         # If less present_last_elment <  next_first_element find the differences
-        if a[i][1] < a[i+1][0]:
+
+        if arr[i][1]>arr[i+1][1]:
+            lst_time = arr[i][1]
+        elif arr[i][1]>arr[i+1][0]:
+            lst_time = arr[i+1][1]
+        else:
+            lst_time = arr[]
+
+        if arr[i][1] < arr[i+1][0]:
             free_time.append((a[i][1],a[i+1][0]))
 
     if arr[-1][-1] > 0 or arr[-1][-1] < 24:
@@ -28,5 +36,6 @@ def condensed_meeting_time(arr):
 
 
 
-a = [(7,9),(8,10),(13,17)]
+a = [(7,9),(10,11),(13,17)]
+print(a)
 print(condensed_meeting_time(a))

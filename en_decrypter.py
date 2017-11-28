@@ -1,5 +1,10 @@
 import os
 
+#Help create a backups folder in your system if you dont have one
+if not os.path.exists("backups"):
+    os.makedirs("backups")
+
+
 #Read_file reads the file and return a text
 def read_file(filename):
     f = open(filename)
@@ -12,10 +17,6 @@ def write_file(filename, text):
     file = open(filename, "w")
     file.write(text)
     file.close()
-
-#Help create a backups folder in your system if you dont have one
-if not os.path.exists("backups"):
-    os.makedirs("backups")
 
 #Take a file and save it in a backup folder
 def backup(filename):
